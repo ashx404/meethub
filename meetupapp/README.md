@@ -1,3 +1,4 @@
 # Quasar App
 
-> WIP
+> Quasar Framework Based(Vue.js) frontend for the Dashboard for Meetup.com. 
+
